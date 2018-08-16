@@ -112,4 +112,4 @@ WELCOME TO C A S A N O V A  :hearts:️:dove:
 })
 
 
-client.login('NDc1NzUyMTY0OTg0MDk0NzQw.DkmlLQ.GohEMRq3BbGeWTOGt8G2pyK5TG4');
+client.login(process.env.BOT_TOKEN);
